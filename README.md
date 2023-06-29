@@ -1,6 +1,6 @@
 # SARS-CoV-2 Bayesian Vaccine Breakthrough Analysis
 
-View our peer-review publication [SARS-CoV-2 Variants Associated with Vaccine Breakthrough in the Delaware Valley through Summer 2021](https://pubmed.ncbi.nlm.nih.gov/35130727/).
+View our peer-reviewed publication [SARS-CoV-2 Variants Associated with Vaccine Breakthrough in the Delaware Valley through Summer 2021](https://pubmed.ncbi.nlm.nih.gov/35130727/).
 
 The project includes R and Stan code to analyse point mutations in SARS-CoV-2 virus. The overall goal of the project is to understand the evolution of the virus and how different mutations appear and propagate over time.
 
