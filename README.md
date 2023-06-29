@@ -1,4 +1,4 @@
-# SARS-CoV-2_Bayesian-Vaccine-Breakthrough-Analysis
+# SARS-CoV-2 Bayesian Vaccine Breakthrough Analysis
 
 This project includes R and Stan code to analyse point mutations in SARS-CoV-2 virus. The overall goal of the project is to understand the evolution of the virus and how different mutations appear and propagate over time.
 
